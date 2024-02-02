@@ -83,7 +83,7 @@ Create a `.env` file in the project's root directory, and set the following vari
 
 4. After pdf document is placed in the folder, launch cmd (or ide of your choice). The steps told here are using cmd, such that it requires least setup. Inside cmd, activate the virtual environment as follow:
 
-	<img src="./screenshots/04-activate_venv.png">
+	<img src="./screenshots/04-activate_virtual_ev.png">
 
 5. After activating virtual environment, run the `pdf_doc_indexer.py` program:
 

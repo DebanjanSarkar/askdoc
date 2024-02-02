@@ -1,5 +1,5 @@
-*venv*
-*venv*/*
+*_venv*/*
 .env
-*env*
+faiss_vector_dbs/*
+pdf_docs/*
  
