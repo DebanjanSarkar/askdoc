@@ -113,8 +113,8 @@ Create a `.env` file in the project's root directory, and set the following vari
 
 ## Author
 
-**Debanjan Sarkar**
-<a href="https://www.linkedin.com/in/debanjan-sarkar-2001/">LinkedIn</a>
-<a href="https://github.com/DebanjanSarkar">Github</a>
-<a href="https://twitter.com/darkolexis">Twitter (X)</a>
+**Debanjan Sarkar**<br>
+<a href="https://www.linkedin.com/in/debanjan-sarkar-2001/">LinkedIn</a><br>
+<a href="https://github.com/DebanjanSarkar">Github</a><br>
+<a href="https://twitter.com/darkolexis">Twitter (X)</a><br><br>
 Feel free to explore, contribute, and enhance the ASKDOC project! If you have any questions or suggestions, please don't hesitate to contact the author. 
