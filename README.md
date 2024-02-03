@@ -55,8 +55,8 @@ Create a `.env` file in the project's root directory, and set the following vari
 
         AZURE_OPENAI_KEY=<your_azure_openai_key>
         AZURE_OPENAI_ENDPOINT=<your_azure_openai_endpoint>
-        AZURE_GPTTURBO_DEPLOYMENT_NAME=your_gptturbo_deployment_name
-        AZURE_OPENAI_ADA_EMBEDDING_DEPLOYMENT_NAME=your_embedding_deployment_name
+        AZURE_GPTTURBO_DEPLOYMENT_NAME=<your_gptturbo_deployment_name>
+        AZURE_OPENAI_ADA_EMBEDDING_DEPLOYMENT_NAME=<your_embedding_deployment_name>
         API_VERSION=2023-05-15
 
 ## Project Structure
@@ -114,5 +114,7 @@ Create a `.env` file in the project's root directory, and set the following vari
 ## Author
 
 **Debanjan Sarkar**
-
-Feel free to explore, contribute, and enhance the Langchain Azure Chatbot project! If you have any questions or suggestions, please don't hesitate to contact the author. 
+<a href="https://www.linkedin.com/in/debanjan-sarkar-2001/">LinkedIn</a>
+<a href="https://github.com/DebanjanSarkar">Github</a>
+<a href="https://twitter.com/darkolexis">Twitter (X)</a>
+Feel free to explore, contribute, and enhance the ASKDOC project! If you have any questions or suggestions, please don't hesitate to contact the author. 
