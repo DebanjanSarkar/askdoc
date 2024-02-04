@@ -77,6 +77,10 @@ Create a `.env` file in the project's root directory, and set the following vari
 
 	<img src="./screenshots/02-pdf_file_in_pdf_docs.png">
 
+**To avoid getting errors during indexing:-**
+	a. **Rename the pdf document to a shorter name(name being about 1 to 40 characters long, e.g.- "rich_dad_poor_dad.pdf"), if the original pdf name is long.**
+	b. **Rename to remove any special characters, if any, from the name of the document. E.g.- #, @, |, \, /, *, &, %, $, =**
+
 3. The contents of the file are shown as below... The contents are very much specific to me, so if question asked from it is answered correctly, then the application potencial can be understood by the ones who are planning to give it a go:
 	
 	<img src="./screenshots/03-file_text.png">

@@ -93,7 +93,7 @@ try:
     #use the faiss vector store we saved to search the local document
     retriever = vectorStore.as_retriever(search_type="similarity", search_kwargs={"k":2})
     
-    QUESTION_PROMPT = PromptTemplate.from_template("""Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question.
+    QUESTION_PROMPT = PromptTemplate.from_template("""Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question, according to the format stated in the follow up question.
     
     Chat History:
     {chat_history}
