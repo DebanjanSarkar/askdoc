@@ -76,10 +76,10 @@ Create a `.env` file in the project's root directory, and set the following vari
 2. Here, the rest of the steps will be showcased using a file named `my_into.pdf`, in which there lies my details, such as what are my skills, qualification, expertise, etc. The file is placed inside the `pdf_docs` folder, as follow:
 
 	<img src="./screenshots/02-pdf_file_in_pdf_docs.png">
-
-**To avoid getting errors during indexing:-**
-	a. **Rename the pdf document to a shorter name(name being about 1 to 40 characters long, e.g.- "rich_dad_poor_dad.pdf"), if the original pdf name is long.**
-	b. **Rename to remove any special characters, if any, from the name of the document. E.g.- #, @, |, \, /, *, &, %, $, =**
+<br>
+**To avoid getting errors during indexing:-** <br>
+	a. **Rename the pdf document to a shorter name(name being about 1 to 40 characters long, e.g.- "rich_dad_poor_dad.pdf"), if the original pdf name is long.** <br>
+	b. **Rename to remove any special characters, if any, from the name of the document. E.g.- #, @, |, \, /, *, &, %, $, =** <br>
 
 3. The contents of the file are shown as below... The contents are very much specific to me, so if question asked from it is answered correctly, then the application potencial can be understood by the ones who are planning to give it a go:
 	
